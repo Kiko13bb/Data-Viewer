@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ic_b">#2E3133</color>
+    <color name="ic_f">#C1E8FF</color>
+
+    <color name="background">#191C1E</color>
+    <color name="background2">#161C20</color>
+
+    <color name="accent">#007FAC</color>
+
+    <color name="text">#E0F3FF</color>
+    <color name="text2">#C1E8FF</color>
+</resources>
